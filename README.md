@@ -2,7 +2,7 @@
 Protractor+Typescript+Jasmine framework
 
 
-##Running the test locally
+## Running the test locally
 1. Clone the project
 2. Open the project in visual studio. 
 3. Press ctrl+` to open the terminal .Make sure that the directory points to the current project folder.
