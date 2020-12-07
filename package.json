@@ -1,0 +1,23 @@
+{
+  "name": "llhealth_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "pretest": "npm run tsc",
+    "test": "node ./node_modules/protractor/bin/protractor outputjs/config/config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jasmine": "2.8.7"
+  },
+  "devDependencies": {
+    "@types/node": "12.12.2",
+    "jasmine": "3.6.3",
+    "protractor": "7.0.0",
+    "log4js": "6.3.0",
+    "typescript": "3.4.3"
+  }
+}

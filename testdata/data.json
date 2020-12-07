@@ -1,0 +1,14 @@
+{
+    "siteUrl" : "http://www.way2automation.com/angularjs-protractor/webtables/",
+
+    "userdata" :{
+    
+        "firstname" : "Billy",
+        "lastname"  : "Blanks",
+        "username"  : "bbAdmin",
+        "password"  : "indiancurry",
+        "email"     :  "b@b.com",
+        "mobilephone": "123-123-1234"
+    }
+
+}
